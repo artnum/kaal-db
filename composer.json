@@ -1,0 +1,8 @@
+{
+    "name": "artnum/kaal-db",
+    "autoload": {
+        "psr-4": {
+            "KaalDB\\": "src/"
+        }
+    }
+}
